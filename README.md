@@ -1,2 +1,2 @@
 # vite_react_app
-Hosting Vite + React app on Github
+Hosting/Deploying Vite + React app on Github
