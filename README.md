@@ -95,7 +95,14 @@ Link your local project with a GitHub repository:
    git push -u origin main
    ```
 
-## Step 4: Deploy Your App
+## Step 4: Clean node_modules and install vite
+
+```bash
+rm -rf node_modules/
+npm install vite --save-dev
+```
+
+## Step 5: Deploy Your App
 
 Deploy your application to GitHub Pages:
 
